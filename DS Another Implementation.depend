@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1433977748 source:d:\project\ds another\ds another implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"sparse.h"
+
+1433978004 d:\project\ds another\ds another implementation\sparse.h
+
+1433978029 source:d:\project\ds another\ds another implementation\sparse.c
+	<stdio.h>
+	<stdlib.h>
+	"sparse.h"
+
+1433981348 source:e:\software engineering\level two\secod semster\ds\ds another implementation\final\ds another implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"sparse.h"
+
+1433981980 e:\software engineering\level two\secod semster\ds\ds another implementation\final\ds another implementation\sparse.h
+
+1433981841 source:e:\software engineering\level two\secod semster\ds\ds another implementation\final\ds another implementation\sparse.c
+	<stdio.h>
+	<stdlib.h>
+	"sparse.h"
+
